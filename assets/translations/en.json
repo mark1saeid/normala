@@ -1,0 +1,11 @@
+{
+  "home": {
+    "current_location": "Current Location",
+    "search": "search for a help",
+    "upcoming": "Upcoming",
+    "top_doctors": "Top doctors",
+    "top_nurses": "Top nurses",
+    "top_medical_centers": "Top medical centers",
+    "see_more": "See more"
+  }
+}
